@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2023-02-16
+
+### Changed
+
+* Visual Studio MarketPlace Extension Background Color
+
+## Removed
+
+* Wrong Tags
+
 ## [0.0.1] - 2023-02-16
 
 ### Added
@@ -15,4 +25,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/HTML-Essentials/tree/develop
+[0.0.2]: https://github.com/Gydunhn/HTML-Essentials/releases/tag/0.0.2
 [0.0.1]: https://github.com/Gydunhn/HTML-Essentials/releases/tag/0.0.1
