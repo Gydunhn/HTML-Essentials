@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+* HTMLHint, VS Code integration for HTMLHint - A Static Code Analysis Tool for HTML.
+
 ## [0.0.2] - 2023-02-16
 
 ### Changed
@@ -22,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 * Initial release
-  * Created extension pack
+  * Extension pack Created
 
 [Unreleased]: https://github.com/Gydunhn/HTML-Essentials/tree/develop
 [0.0.2]: https://github.com/Gydunhn/HTML-Essentials/releases/tag/0.0.2

@@ -34,6 +34,8 @@
         "WebDesign",
         "Web Design",
         "HTML",
+        "Hint",
+        "HTMLHint",
         "CSS",
         "HTML CSS Support",
         "Tag",
@@ -59,6 +61,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "HTMLHint.vscode-htmlhint",
         "ecmel.vscode-html-css",
         "formulahendry.auto-complete-tag",
         "vincaslt.highlight-matching-tag",
