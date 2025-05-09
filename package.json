@@ -34,25 +34,24 @@
         "WebDesign",
         "Web Design",
         "HTML",
-        "Hint",
-        "HTMLHint",
         "CSS",
         "HTML CSS Support",
         "Tag",
-        "Rename Tag",
         "Auto Complete Tag",
         "Snippets",
-        "HTML Snippets",
         "CSS Snippets",
-        "Awesome",
         "Color",
         "Color Highlight",
+        "Color Picker",
         "Highlight",
         "Matching Tag",
+        "Stylelint",
+        "HTML-validate",
+        "CSS Peek",
         "Gydunhn",
         "Elite"
     ],
-    "version": "0.1.0",
+    "version": "1.0.0",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
@@ -61,12 +60,14 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "HTMLHint.vscode-htmlhint",
         "ecmel.vscode-html-css",
         "formulahendry.auto-complete-tag",
         "vincaslt.highlight-matching-tag",
         "naumovs.color-highlight",
+        "html-validate.vscode-html-validate",
         "pranaygp.vscode-css-peek",
-        "joy-yu.css-snippets"
+        "joy-yu.css-snippets",
+        "anseki.vscode-color",
+        "stylelint.vscode-stylelint"
     ]
 }
