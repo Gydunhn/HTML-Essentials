@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2025-05-09
+
+### Added
+
+* HTML-validate - VS Code extension for html-validate, a pluggable HTML linter.
+* Color Picker - Helper with GUI to generate color codes such as CSS color notations.
+* Stylelint - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+
+### Changed
+
+* Revised extension list to improve web development workflow.
+
+### Removed
+
+* HTMLHint - Replaced with HTML-validate for more comprehensive HTML validation.
+
 ## [0.1.0] - 2023-02-18
 
 ### Added
@@ -19,7 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * Visual Studio MarketPlace Extension Background Color
 
-## Removed
+### Removed
 
 * Wrong Tags
 
@@ -31,6 +47,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Extension pack Created
 
 [Unreleased]: https://github.com/Gydunhn/HTML-Essentials/tree/develop
+[1.0.0]: https://github.com/Gydunhn/HTML-Essentials/releases/tag/1.0.0
 [0.1.0]: https://github.com/Gydunhn/HTML-Essentials/releases/tag/0.1.0
 [0.0.2]: https://github.com/Gydunhn/HTML-Essentials/releases/tag/0.0.2
 [0.0.1]: https://github.com/Gydunhn/HTML-Essentials/releases/tag/0.0.1
